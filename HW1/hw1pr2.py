@@ -25,13 +25,11 @@ if __name__ == '__main__':
 	plt.plot(X, y, 'ro')
 
 
-	# TODO: replace the m_opt and b_opt with the solution you obtained from
 	# 		part (a), note that y = mx + b
 	m_opt = 62./35
 	b_opt = 18./35
 
 
-	# TODO: generate 100 points along the line of optimal linear fit.
 
 	# HINT:
 	#	1) Use np.linspace to get the x-coordinate of 100 points
